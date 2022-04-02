@@ -15,9 +15,9 @@ buildscript {
 apply plugin: 'scala'
 apply plugin: 'forge'
 
-version = "1.0"
-group = "committee.nova.modid" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "modid"
+version = "1.8.X-1.0.0"
+group = "committee.nova.lofaith" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "LeapOfFaith"
 
 minecraft {
     version = "1.8-11.14.3.1502"

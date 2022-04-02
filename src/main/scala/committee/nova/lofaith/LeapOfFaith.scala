@@ -15,7 +15,7 @@ object LeapOfFaith {
   var instance: LeapOfFaith = _
 }
 
-@Mod(modid = LeapOfFaith.MODID, version = LeapOfFaith.VERSION)
+@Mod(modid = LeapOfFaith.MODID, version = LeapOfFaith.VERSION, acceptedMinecraftVersions = "[1.8,)")
 class LeapOfFaith {
   LeapOfFaith.instance = this
 
